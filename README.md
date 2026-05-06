@@ -1,5 +1,16 @@
 # my-first-datahub
 ## Description 
-This is my **first** app on streamlit
+--This is my **first** app on streamlit--
 
 `print(''This is my first app on streamlit'')`
+
+- Bullet item
+- Another item
+ - Nested item
+
+ 1. Numbered item
+ 2. Another item
+
+```python
+# code block with language
+print("Hello")
