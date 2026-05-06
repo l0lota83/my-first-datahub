@@ -6,7 +6,7 @@
 
 - Bullet item
 - Another item
- - Nested item
+  - Nested item
 
  1. Numbered item
  2. Another item
@@ -14,3 +14,9 @@
 ```python
 # code block with language
 print("Hello")
+
+| Feature | Description | Status |
+| :--- | :---: | ---: |
+| Documentation | Clear and concise | Done |
+| Code Samples | Python and JS | Pending |
+| Images | High resolution | ✅ |
