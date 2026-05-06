@@ -1,22 +1,36 @@
-# my-first-datahub
-## Description 
---This is my **first** app on streamlit--
+# My First Streamlit App 🚀
 
-`print(''This is my first app on streamlit'')`
+This is my first simple web application built using **Streamlit**.
 
-- Bullet item
-- Another item
-  - Nested item
+## 📌 Description
+The app displays a title and a short message using Streamlit.
 
- 1. Numbered item
- 2. Another item
+## 🧾 Code
 
 ```python
-# code block with language
-print("Hello")
+import streamlit as st
 
-| Feature | Description | Status |
-| :--- | :---: | ---: |
-| Documentation | Clear and concise | Done |
-| Code Samples | Python and JS | Pending |
-| Images | High resolution | ✅ |
+st.title("Hello, SKKU! 🎓")
+st.write("My first web app")
+```
+
+## ▶️ How to run
+
+1. Install Streamlit (if you don’t have it yet):
+```bash
+pip install streamlit
+```
+
+2. Run the app:
+```bash
+streamlit run app.py
+```
+
+## 🎯 What I learned
+- How to create a basic Streamlit app
+- How to display text using st.title() and st.write()
+- How to run a Python web app locally
+
+---
+
+Made with ❤️ while learning Streamlit
